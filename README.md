@@ -7,8 +7,9 @@ Python Utility Project 2019 ...
 * url : https://apidocs.korbit.co.kr/ko/#api-key-%EB%B0%9C%EA%B8%89%EC%8B%A0%EC%B2%AD
 * ====> 위의 url 에서 client id와 client secret 을 발급 받은 후 korbitPy.py 에 대입한 후에 실행해 주세요.
 * pointResult.c 는 linux나 mac 에서 gcc 로 빌드 해 주셔야 합니다. a.out 이 나오면, pointResult로 이름을 바꾸어 주세요.
+** please build pointResult.c file in linux, mac. // $gcc pointResult.c // mv a.out pointResult
 * slack_message.sh 를 이용하면, 중요한 시점에 슬랙 메세지를 받을 수 있습니다. -> 더좋은 방법은 공유 부탁 드립니다. 
-
+* nonce 번호는 본인의 것으로 nonce.txt에 기입하고, 저장해 주세요. 처음이시면 기본값 1입니다.
 
 Python Utility Project 2017 ... 
 ===============================
