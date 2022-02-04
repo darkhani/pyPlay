@@ -1,3 +1,10 @@
+Python Utility Project 2022 ...
+===============================
+3. Make friend All people
+-------------------
+* 전국민 핸드폰 번호로 깐부먹기
+* 결과로 6.3GB의 insert into 문을 생성...
+
 Python Utility Project 2019 ...
 ===============================
 2. KorbitAutoOrderHelper
